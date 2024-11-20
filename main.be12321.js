@@ -13256,7 +13256,7 @@
             })
         }
           , Wt = () => {
-            const e = ["salmanjaaniiloveyou@gmail.com"]
+            const e = ["officialaltafniz@gmail.com"]
               , t = _()
               , [r,a] = (0,
             n.useState)(!1)
